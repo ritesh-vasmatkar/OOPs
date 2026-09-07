@@ -4,7 +4,7 @@ using namespace std;
 // Function to accept array elements from the user
 void acceptArray(int arr[], int n)
 {
-    cout << "Enter elements: << endl;
+    cout << "Enter elements: "<< endl;
 
     for (int i = 0; i < n; i++)
     {
